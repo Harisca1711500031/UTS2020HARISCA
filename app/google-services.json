@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672427142982",
+    "firebase_url": "https://utsharisca.firebaseio.com",
+    "project_id": "utsharisca",
+    "storage_bucket": "utsharisca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672427142982:android:9391869ac5a6c509783f47",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500031_harisca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672427142982-r8l87rnuqrp3d6ufl2ob8ulifoncofgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcw_gI8rNowAo1N4oXpjhrVPvpYJh4Oi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672427142982-r8l87rnuqrp3d6ufl2ob8ulifoncofgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
